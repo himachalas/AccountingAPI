@@ -1,4 +1,5 @@
-﻿namespace backend.Models
+using System.Collections.Generic;
+namespace backend.Models
 {
     public class ArrayOfTransactions
     {
