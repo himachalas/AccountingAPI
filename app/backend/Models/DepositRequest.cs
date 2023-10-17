@@ -1,5 +1,4 @@
-using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
+using System;
 namespace backend.Models
 {
     public class DepositRequest
